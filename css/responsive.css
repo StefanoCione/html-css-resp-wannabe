@@ -1,0 +1,9 @@
+/* fino a 768 */
+
+@media screen and (max-width: 768px) {
+    .container {
+        width: 765px;
+    }
+}
+
+/* fino a 576 */
